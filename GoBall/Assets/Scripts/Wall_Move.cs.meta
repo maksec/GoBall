@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: af3b41e1f88966a7ea22283b087d44fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - game_status: {instanceID: 0}
+  - game_speed: {instanceID: 0}
+  - Current_Score: {instanceID: 0}
+  - Ball: {instanceID: 0}
+  - Score: {instanceID: 0}
+  - Easy_Wall: {fileID: 6575658027803329547, guid: ef74a59b5e2a15877bc46a3008d71538,
+      type: 3}
+  - Med_Wall: {fileID: 1723173669058383017, guid: 84826bf9a9ed9a8429b12347baf2b0ef,
+      type: 3}
+  - Hard_Wall: {fileID: 8569261446304411993, guid: 09a0ee29cc729b0419c4323a3081509e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
